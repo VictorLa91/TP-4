@@ -1,0 +1,6 @@
+idconcurso, nombre, fechaInicioInscripcion, fechaFinInscripcion
+1, Concurso de poesía, 2024-05-01, 2024-06-01
+2, Concurso de fotografía, 2024-06-15, 2024-07-15
+3, Concurso de pintura, 2024-08-01, 2024-09-01
+4, Concurso de música, 2024-09-15, 2024-10-15
+5, Concurso de cortometrajes, 2024-11-01, 2024-12-01
